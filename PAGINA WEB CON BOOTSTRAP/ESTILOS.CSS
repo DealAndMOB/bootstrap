@@ -1,0 +1,60 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.navbar{
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(40,33,136,1) 58%, rgba(0,212,255,1) 100%);
+}
+
+.offcanvas-body{
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 8%, rgba(43,90,204,1) 71%, rgba(34,140,164,1) 100%);
+
+}
+
+.offcanvas-header{
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 8%, rgba(43,90,204,1) 71%, rgba(34,140,164,1) 100%);
+}
+.dropdown-menu{
+    background: rgb(25,110,129);
+    background: linear-gradient(90deg, rgba(25,110,129,1) 0%, rgba(41,142,140,1) 14%, rgba(36,151,163,1) 25%, rgba(57,47,175,1) 100%);
+}
+
+
+#Hero{
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+    padding-top: 20vh;
+    height: 80vh;
+    background-color: rgb(3, 3, 3);
+}
+
+.col img{
+    border-radius: 25px;
+}
+
+#Sobre-Nosotros{
+    font-weight: bold;
+    color: rgb(0, 0, 0);
+    padding-top: 3vh;
+    height: 80vh;
+}
+
+.col-6{
+    padding: 50px;
+}
+
+#carrusel{
+    height: 80vh;
+}
+
+#cartas{
+    padding-top: 20vh;
+    height: 80vh;
+}
+
+
+
+
